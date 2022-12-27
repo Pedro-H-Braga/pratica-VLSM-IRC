@@ -32,3 +32,10 @@ Para dividir uma rede de 3 sub-redes com 30 hots cada, usariámos um SALTO de 32
 ### Desenvolvimento lógico do projeto:
 Seguindo a lógica do seguinte site:
 https://www.geeksforgeeks.org/introduction-of-variable-length-subnet-mask-vlsm/
+
+1. Selecionando o tamanho dos blocos por requisito
+Será necessário:
+- Departamento Financeiro com 55 hosts
+- Departamento Comercial com 62 hosts
+- Departamento Contábil com 20 hosts
+Soma total de hosts 137: 
