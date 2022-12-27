@@ -58,6 +58,11 @@ sub-rede 2:
 
 3°
 
+ANOTAÇÕES sobre cabos no packet tracer:
+
+* MÁQUINAS DIFERENTES: cabo direto (cooper straight-through)
+* MÁQUINAS IGUAIS: cabo crossover (cooper Cross-Over)
+
 
 
 
