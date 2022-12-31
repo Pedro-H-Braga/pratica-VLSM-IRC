@@ -1,2 +1,2 @@
 # Introdu-o-a-Redes-de-Computadores
-Documentações e Arquivos dos projetos da matéria 
+Prática do assunto de VLSM da matéria de Introdução a Redes de Computadores no Cisco Packet Tracer 
